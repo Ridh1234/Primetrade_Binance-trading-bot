@@ -57,3 +57,35 @@
 [2025-09-08 18:25:51] [INFO] ============================================================
 [2025-09-08 18:25:51] [INFO] SESSION COMPLETED
 [2025-09-08 18:25:51] [INFO] ============================================================
+[2025-09-08 19:34:55] [INFO] Binance Spot Trading Bot Started
+[2025-09-08 19:34:55] [INFO] Command line arguments: limit BTCUSDT BUY 0.01 25000
+[2025-09-08 19:34:55] [INFO] All arguments validated successfully
+[2025-09-08 19:34:57] [INFO] ============================================================
+[2025-09-08 19:34:57] [INFO] STARTING ORDER EXECUTION
+[2025-09-08 19:34:57] [INFO] ============================================================
+[2025-09-08 19:34:57] [INFO] Executing LIMIT order: BUY 0.01 BTCUSDT @ 25000.0
+[2025-09-08 19:34:57] [INFO] Initiating limit BUY order for BTCUSDT
+[2025-09-08 19:34:57] [INFO] Order parameters - Symbol: BTCUSDT, Side: BUY, Quantity: 0.01, Price: 25000.0
+[2025-09-08 19:34:57] [INFO] Environment variables loaded successfully
+[2025-09-08 19:34:58] [INFO] Successfully connected to Binance Spot Testnet. Server time: {'serverTime': 1757340299856}
+[2025-09-08 19:34:58] [INFO] Spot account access confirmed
+[2025-09-08 19:34:58] [INFO] Binance client initialized successfully
+[2025-09-08 19:34:59] [INFO] Found symbol info for BTCUSDT
+[2025-09-08 19:34:59] [INFO] Current price for BTCUSDT: 112088.16
+[2025-09-08 19:34:59] [INFO] Current market price for BTCUSDT: 112088.16
+[2025-09-08 19:34:59] [INFO] BUY limit price (25000.0) is below market price (112088.16). Order will wait for price to drop.
+[2025-09-08 19:34:59] [INFO] Placing limit BUY order: BTCUSDT, quantity: 0.01, price: 25000.0
+[2025-09-08 19:34:59] [INFO] Limit order placed successfully: Order ID 444197
+[2025-09-08 19:34:59] [INFO] Limit order placed successfully!
+[2025-09-08 19:34:59] [INFO] Order Details:
+  Order ID: 444197
+  Symbol: BTCUSDT
+  Side: BUY
+  Type: LIMIT
+  Quantity: 0.01000000
+  Price: 25000.00000000
+  Status: NEW
+[2025-09-08 19:34:59] [INFO] Order execution completed successfully
+[2025-09-08 19:34:59] [INFO] ============================================================
+[2025-09-08 19:34:59] [INFO] SESSION COMPLETED
+[2025-09-08 19:34:59] [INFO] ============================================================
