@@ -1,0 +1,59 @@
+[2025-09-08 16:57:51] [INFO] Binance Futures Trading Bot Started
+[2025-09-08 16:57:51] [INFO] Command line arguments: BTCUSDT BUY 0.001 market
+[2025-09-08 16:57:51] [INFO] All arguments validated successfully
+[2025-09-08 16:57:54] [INFO] ============================================================
+[2025-09-08 16:57:54] [INFO] STARTING ORDER EXECUTION
+[2025-09-08 16:57:54] [INFO] ============================================================
+[2025-09-08 16:57:54] [INFO] Executing MARKET order: BUY 0.001 BTCUSDT
+[2025-09-08 16:57:54] [INFO] Initiating market BUY order for BTCUSDT
+[2025-09-08 16:57:54] [INFO] Order parameters - Symbol: BTCUSDT, Side: BUY, Quantity: 0.001
+[2025-09-08 16:57:54] [INFO] Environment variables loaded successfully
+[2025-09-08 16:57:55] [INFO] Successfully connected to Binance Futures Testnet. Server time: {'serverTime': 1757330876743}
+[2025-09-08 16:57:56] [ERROR] Binance API error during connection: Invalid API-key, IP, or permissions for action
+[2025-09-08 16:57:56] [ERROR] Failed to initialize Binance client: Binance API error during connection: Invalid API-key, IP, or permissions for action
+[2025-09-08 16:57:56] [ERROR] Order execution failed: Failed to initialize Binance client: Binance API error during connection: Invalid API-key, IP, or permissions for action
+[2025-09-08 16:58:08] [INFO] Binance Futures Trading Bot Started
+[2025-09-08 16:58:08] [INFO] Command line arguments: BTCUSDT BUY 0.001 market
+[2025-09-08 16:58:08] [INFO] All arguments validated successfully
+[2025-09-08 16:58:12] [INFO] ============================================================
+[2025-09-08 16:58:12] [INFO] STARTING ORDER EXECUTION
+[2025-09-08 16:58:12] [INFO] ============================================================
+[2025-09-08 16:58:12] [INFO] Executing MARKET order: BUY 0.001 BTCUSDT
+[2025-09-08 16:58:12] [INFO] Initiating market BUY order for BTCUSDT
+[2025-09-08 16:58:12] [INFO] Order parameters - Symbol: BTCUSDT, Side: BUY, Quantity: 0.001
+[2025-09-08 16:58:12] [INFO] Environment variables loaded successfully
+[2025-09-08 16:58:13] [INFO] Successfully connected to Binance Futures Testnet. Server time: {'serverTime': 1757330894925}
+[2025-09-08 16:58:14] [ERROR] Binance API error during connection: Invalid API-key, IP, or permissions for action
+[2025-09-08 16:58:14] [ERROR] Failed to initialize Binance client: Binance API error during connection: Invalid API-key, IP, or permissions for action
+[2025-09-08 16:58:14] [ERROR] Order execution failed: Failed to initialize Binance client: Binance API error during connection: Invalid API-key, IP, or permissions for action
+[2025-09-08 18:25:47] [INFO] Binance Spot Trading Bot Started
+[2025-09-08 18:25:47] [INFO] Command line arguments: BTCUSDT BUY 0.001 market
+[2025-09-08 18:25:47] [INFO] All arguments validated successfully
+[2025-09-08 18:25:49] [INFO] ============================================================
+[2025-09-08 18:25:49] [INFO] STARTING ORDER EXECUTION
+[2025-09-08 18:25:49] [INFO] ============================================================
+[2025-09-08 18:25:49] [INFO] Executing MARKET order: BUY 0.001 BTCUSDT
+[2025-09-08 18:25:49] [INFO] Initiating market BUY order for BTCUSDT
+[2025-09-08 18:25:49] [INFO] Order parameters - Symbol: BTCUSDT, Side: BUY, Quantity: 0.001
+[2025-09-08 18:25:49] [INFO] Environment variables loaded successfully
+[2025-09-08 18:25:50] [INFO] Successfully connected to Binance Spot Testnet. Server time: {'serverTime': 1757336151709}
+[2025-09-08 18:25:50] [INFO] Spot account access confirmed
+[2025-09-08 18:25:50] [INFO] Binance client initialized successfully
+[2025-09-08 18:25:51] [INFO] Found symbol info for BTCUSDT
+[2025-09-08 18:25:51] [INFO] Current price for BTCUSDT: 112016.19
+[2025-09-08 18:25:51] [INFO] Current market price for BTCUSDT: 112016.19
+[2025-09-08 18:25:51] [INFO] Placing market BUY order: BTCUSDT, quantity: 0.001
+[2025-09-08 18:25:51] [INFO] Market order placed successfully: Order ID 437530
+[2025-09-08 18:25:51] [INFO] Market order placed successfully!
+[2025-09-08 18:25:51] [INFO] Order Details:
+  Order ID: 437530
+  Symbol: BTCUSDT
+  Side: BUY
+  Type: MARKET
+  Quantity: 0.00100000
+  Price: 0.00000000
+  Status: FILLED
+[2025-09-08 18:25:51] [INFO] Order execution completed successfully
+[2025-09-08 18:25:51] [INFO] ============================================================
+[2025-09-08 18:25:51] [INFO] SESSION COMPLETED
+[2025-09-08 18:25:51] [INFO] ============================================================
